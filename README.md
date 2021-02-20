@@ -1,7 +1,5 @@
 # rust-chan-scraper
 
-[![CI](https://github.com/Celeo/rust-chan-scraper/workflows/CI/badge.svg?branch=master)](https://github.com/celeo/rust-chan-scraper/actions?query=workflow%3ACI)
-
 Rust port of <https://github.com/dmtaylor/go-chan-scraper>.
 
 ## Building

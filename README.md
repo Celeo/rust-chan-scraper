@@ -14,7 +14,7 @@ Rust port of <https://github.com/dmtaylor/go-chan-scraper>.
 ```sh
 git clone https://github.com/Celeo/rust-chan-scraper
 cd rust-chan-scraper
-cargo test
+cargo build
 ```
 
 ## License
